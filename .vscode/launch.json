@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch desafio2",
+            "request": "launch",
+            "mainClass": "desafio2",
+            "projectName": "DesafioCapgemini_d7d8c6db"
+        },
+        {
+            "type": "java",
             "name": "Launch desafio1",
             "request": "launch",
             "mainClass": "Desafio1.desafio1",
